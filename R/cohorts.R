@@ -14,7 +14,7 @@ cohort_metric_check <- function(metrics){
                        "ga:cohortPageviewsPerUser",
                        "ga:cohortRetentionRate",
                        "ga:cohortRevenuePerUser",
-                       "ga:cohortVisitDurationPerUser",
+                       "ga:cohortSessionDurationPerUser",
                        "ga:cohortSessionsPerUser",
                        "ga:cohortTotalUsersWithLifetimeCriteria",
                        "ga:cohortAppviewsPerUserWithLifetimeCriteria",
